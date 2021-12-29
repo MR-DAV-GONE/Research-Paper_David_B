@@ -29,7 +29,7 @@ This paper will answer these questions revealing market trends within cryptocurr
 Data was collected online using a public commercial domain website of "Yahoo Finance" where information over a Twelve-month period starting with November 1st ending with October 1st was downloaded for the two independent variables used.
 Ethereum and Bitcoin as the main Cryptocurrency, in order to test the effect of these two variables a full factorial experiment was designed for the variables.
 Two factors were identified for the use of this experiment, namely Pricing change of currency and the volume fluctuation over time.
-Data of these factors were collected as shown in [figure 1](https://github.com/MR-DAV-GONE/Research-Paper_David_B/blob/main/Graphs%26ChartsCrypto/BTC_Pricing.jpg)
+Data of these factors were collected as shown in [figure 1](C:\Users\David\OneDrive\Documents\GitHub\Research-Paper_David_B\Graphs&ChartsCrypto\img.png)
 in excel spreadsheet when downloaded.
 For each date during the twelve-month period each price and volume was listed individually. 
 Three sets of graphs were created from this data using excel software for data organization and graph making for both Ethereum (ETH) and Bitcoin (BTC); pricing as a dependent variable (in USD) and date in months for the dependent variable. A line graph was made and can be seen in figure 2 in results. For Volume, the exact method is used like in pricing, with volume replacing the independent variable of pricing instead. A line graph was then created distributing the data over the twelve-month period. Lastly, A bar graph is used to compare the data of weekends vs weekday pricing of both cryptocurrencies separately. 
